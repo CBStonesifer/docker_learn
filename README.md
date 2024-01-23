@@ -1,1 +1,1 @@
-This is a test for creating a dockerfile
+This is a new repo for learning how to configure Kubernetes with Docker.
